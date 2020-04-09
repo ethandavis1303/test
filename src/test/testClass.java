@@ -10,6 +10,8 @@ public class testClass {
 		int oranges = 7;
 
 		int pears = 4;
+		
+		boolean nathanRocks = true;
 
 		/* Nathan
 		 * 
