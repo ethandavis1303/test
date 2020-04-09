@@ -7,6 +7,7 @@ public class testClass {
 		
 		int apples = 3;
 		
+		int pears = 4;
 		/* Nathan
 		 * 
 		 * 
